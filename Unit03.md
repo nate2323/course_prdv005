@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV005: Time and Stress Management"
+course_description: "A survey of several time management tools and techniques that can be applied to most work and life situations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Stress Management** <span id="3"></span> 
 *As you learned in the last unit, avoiding procrastination and learning
 to delegate successfully helps to reduce stress. Stress is normal.

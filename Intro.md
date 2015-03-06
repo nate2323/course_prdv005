@@ -1,4 +1,11 @@
-Course Syllabus for "PRDV005: Time and Stress Management "
+---
+layout: default
+title: "PRDV005: Time and Stress Management"
+course_description: "A survey of several time management tools and techniques that can be applied to most work and life situations."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "PRDV005: Time and Stress Management"
 ----------------------------------------------------------
 
 Effective time management is the key to getting the most out of your

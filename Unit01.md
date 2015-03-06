@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV005: Time and Stress Management"
+course_description: "A survey of several time management tools and techniques that can be applied to most work and life situations."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Concept of Time Management** <span id="1"></span> 
 *While none of us knows what our future holds, some of us take proactive
 steps to explore possibilities and opportunities open to us.

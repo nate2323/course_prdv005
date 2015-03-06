@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV005: Time and Stress Management"
+course_description: "A survey of several time management tools and techniques that can be applied to most work and life situations."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Final Exam** <span id="4"></span> 
 -   **Final Exam: The Saylor Foundation's “PRDV005 Final Exam”**
     Link: The Saylor Foundation's [“PRDV005 Final

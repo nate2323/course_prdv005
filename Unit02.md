@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV005: Time and Stress Management"
+course_description: "A survey of several time management tools and techniques that can be applied to most work and life situations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Overcoming Procrastination and Learning to Delegate** <span
 id="2"></span> 
 *When you are focused on something that does not reflect one of your

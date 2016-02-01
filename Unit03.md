@@ -29,7 +29,7 @@ Upon successful completion of the unit, you will be able to:
 -   **Reading: Helpguide: Melinda Smith and Robert Segal’s “Stress
     Management”**
     Link: Helpguide: Melinda Smith and Robert Segal’s [“Stress
-    Management”](http://www.helpguide.org/mental/stress_management_relief_coping.htm)
+    Management”](http://www.helpguide.org/articles/stress/stress-management.htm)
     (HTML)  
         
      Instructions: This article introduces the concepts contained in

@@ -29,7 +29,7 @@ Upon successful completion of the unit, you will be able to:
 -   **Reading: Helpguide: Melinda Smith and Robert Segal’s “Stress
     Management”**
     Link: Helpguide: Melinda Smith and Robert Segal’s [“Stress
-    Management”](http://www.helpguide.org/mental/stress_management_relief_coping.htm)
+    Management”](http://www.helpguide.org/articles/stress/stress-management.htm)
     (HTML)  
         
      Instructions: This article introduces the concepts contained in
@@ -74,7 +74,7 @@ Upon successful completion of the unit, you will be able to:
 **3.3 Stress Help Center and Diary** <span id="3.3"></span> 
 -   **Reading: Helpguide: “Stress Help Guide”**
     Link: Helpguide: [“Stress Help
-    Guide”](http://www.helpguide.org/topics/stress.htm) (HTML)  
+    Guide”](http://www.helpguide.org/home-pages/stress.htm) (HTML)  
         
      Instructions: Please read these articles, which provide tools and
     tips to help you recognize the signs and symptoms of stress
